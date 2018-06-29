@@ -5,5 +5,6 @@
 * [Nobody Needs Reliable Messaging by Marc de Graauw](https://www.infoq.com/articles/no-reliable-messaging)
 * [Introducing Exactly Once Semantics in Apache Kafka by Matthias J. Sax](https://www.youtube.com/watch?v=Wo9jlaz8h0k)
 * [Kafka Clients (At-Most-Once, At-Least-Once, Exactly-Once, and Avro Client)](https://medium.com/@ajmalbabu/kafka-0-9-0-clients-db1f43257d30)
+* [Enabling Exactly-Once in Kafka Streams](https://www.confluent.io/blog/enabling-exactly-kafka-streams/)
 * [Understanding When to use RabbitMQ or Apache Kafka](https://content.pivotal.io/blog/understanding-when-to-use-rabbitmq-or-apache-kafka)
 * [RabbitMQ vs Kafka Part 1 - Two Different Takes on Messaging](https://jack-vanlightly.com/blog/2017/12/4/rabbitmq-vs-kafka-part-1-messaging-topologies)
