@@ -8,5 +8,6 @@
 * [Enabling Exactly-Once in Kafka Streams](https://www.confluent.io/blog/enabling-exactly-kafka-streams/)
 * [ASP.Net Core Streaming Application Using Kafka – Part 1](https://dotnetcorecentral.com/blog/asp-net-core-streaming-application-using-kafka-part-1/)
 * [Streaming data from PostgreSQL to Kafka using Debezium](https://medium.com/@tilakpatidar/streaming-data-from-postgresql-to-kafka-using-debezium-a14a2644906d)
+* [Event Sourcing Using Apache Kafka](https://www.confluent.io/blog/event-sourcing-using-apache-kafka/)
 * [Understanding When to use RabbitMQ or Apache Kafka](https://content.pivotal.io/blog/understanding-when-to-use-rabbitmq-or-apache-kafka)
 * [RabbitMQ vs Kafka Part 1 - Two Different Takes on Messaging](https://jack-vanlightly.com/blog/2017/12/4/rabbitmq-vs-kafka-part-1-messaging-topologies)
