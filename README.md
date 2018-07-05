@@ -13,3 +13,4 @@
 * [Kafka Docker for development. Kafka, Zookeeper, Schema Registry, Kafka-Connect, Landoop Tools, 20+ connectors ](https://github.com/Landoop/fast-data-dev)
 * [Understanding When to use RabbitMQ or Apache Kafka](https://content.pivotal.io/blog/understanding-when-to-use-rabbitmq-or-apache-kafka)
 * [RabbitMQ vs Kafka Part 1 - Two Different Takes on Messaging](https://jack-vanlightly.com/blog/2017/12/4/rabbitmq-vs-kafka-part-1-messaging-topologies)
+* [Kafka, GDPR and Event Sourcing](https://danlebrero.com/2018/04/11/kafka-gdpr-event-sourcing/)
