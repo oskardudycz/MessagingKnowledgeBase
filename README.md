@@ -1,9 +1,19 @@
 # Messaging Knowledge Base
+
+## General
+
+* [Jay Kreps - The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 * [Delivering Billions of Messages Exactly Once by Segment](https://segment.com/blog/exactly-once-delivery/)
+* [Gregor Hohpe - Starbucks Does Not Use Two-Phase Commit](http://www.enterpriseintegrationpatterns.com/ramblings/18_starbucks.html) - explanation of events compensation
+* [Marc de Graauw - Nobody Needs Reliable Messaging](https://www.infoq.com/articles/no-reliable-messaging)
+
+## Architectures
+* [Lambda Architecture](http://lambda-architecture.net/)
+* [Questioning the Lambda Architecture](https://www.oreilly.com/ideas/questioning-the-lambda-architecture)
+
+## Kafka
 * [Event sourcing and stream processing at scale](https://martin.kleppmann.com/2016/01/29/event-sourcing-stream-processing-at-ddd-europe.html)
-* [Starbucks Does Not Use Two-Phase Commit by Gregor Hohpe](http://www.enterpriseintegrationpatterns.com/ramblings/18_starbucks.html) - explanation of events compensation
 * [Putting your events on a diet by David Boike](https://particular.net/blog/putting-your-events-on-a-diet)
-* [Nobody Needs Reliable Messaging by Marc de Graauw](https://www.infoq.com/articles/no-reliable-messaging)
 * [Introducing Exactly Once Semantics in Apache Kafka by Matthias J. Sax](https://www.youtube.com/watch?v=Wo9jlaz8h0k)
 * [Kafka Clients (At-Most-Once, At-Least-Once, Exactly-Once, and Avro Client)](https://medium.com/@ajmalbabu/kafka-0-9-0-clients-db1f43257d30)
 * [Enabling Exactly-Once in Kafka Streams](https://www.confluent.io/blog/enabling-exactly-kafka-streams/)
@@ -15,7 +25,3 @@
 * [RabbitMQ vs Kafka Part 1 - Two Different Takes on Messaging](https://jack-vanlightly.com/blog/2017/12/4/rabbitmq-vs-kafka-part-1-messaging-topologies)
 * [Kafka, GDPR and Event Sourcing](https://danlebrero.com/2018/04/11/kafka-gdpr-event-sourcing/)
 * [Apache Kafka is not for Event Sourcing](https://medium.com/serialized-io/apache-kafka-is-not-for-event-sourcing-81735c3cf5c)
-
-## Architectures
-* [Lambda Architecture](http://lambda-architecture.net/)
-* [Questioning the Lambda Architecture](https://www.oreilly.com/ideas/questioning-the-lambda-architecture)
