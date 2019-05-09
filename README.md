@@ -16,6 +16,9 @@
 * [Martin Klepmann - Event sourcing and stream processing at scale](https://martin.kleppmann.com/2016/01/29/event-sourcing-stream-processing-at-ddd-europe.html)
 * [Jonas Bonér - Designing Events-First Microservices](https://www.youtube.com/watch?v=1hwuWmMNT4c)
 * [Jay Kreps - Why local state is a fundamental primitive in stream processing](https://www.oreilly.com/ideas/why-local-state-is-a-fundamental-primitive-in-stream-processing)
+* [Simon Green - Microservices, Containers & Event-Driven Architecture: Key Integration Factors](https://www.redhat.com/en/about/videos/microservices-containers-event-driven-architecture)
+* [Jakub Pilimon - Event-Driven Architecture Traps](https://www.youtube.com/watch?v=5_fFmVwqaVY)
+* [Martin Kleppmann, Alastair R. Beresford, and Boerge Svingen - Online Event Processing. Achieving consistency where distributed transactions have failed](https://queue.acm.org/detail.cfm?id=3321612)
 
 ## Kafka
 * [Jay Kreps - Putting Apache Kafka to Use for Event Streams](https://www.youtube.com/watch?v=el-SqcZLZlI)
