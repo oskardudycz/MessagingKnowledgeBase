@@ -20,6 +20,9 @@
 * [Jakub Pilimon - Event-Driven Architecture Traps](https://www.youtube.com/watch?v=5_fFmVwqaVY)
 * [Martin Kleppmann, Alastair R. Beresford, and Boerge Svingen - Online Event Processing. Achieving consistency where distributed transactions have failed](https://queue.acm.org/detail.cfm?id=3321612)
 
+## Kinesis, SQS
+* [Tara Van Unen - Building Loosely Coupled, Scalable, C# Applications with Amazon SQS and Amazon SNS](https://aws.amazon.com/blogs/compute/building-loosely-coupled-scalable-c-applications-with-amazon-sqs-and-amazon-sns/)
+
 ## Kafka
 * [Jay Kreps - Putting Apache Kafka to Use for Event Streams](https://www.youtube.com/watch?v=el-SqcZLZlI)
 * [Matthias J. Sax - Introducing Exactly Once Semantics in Apache Kafka](https://www.youtube.com/watch?v=Wo9jlaz8h0k)
@@ -34,3 +37,4 @@
 * [Kafka, GDPR and Event Sourcing](https://danlebrero.com/2018/04/11/kafka-gdpr-event-sourcing/)
 * [Apache Kafka is not for Event Sourcing](https://medium.com/serialized-io/apache-kafka-is-not-for-event-sourcing-81735c3cf5c)
 * [Gunnar Morling - Reliable Microservices Data Exchange With the Outbox Pattern](https://debezium.io/blog/2019/02/19/reliable-microservices-data-exchange-with-the-outbox-pattern/)
+* [Vlad Mihalcea - How to extract change data events from MySQL to Kafka using Debezium](https://vladmihalcea.com/how-to-extract-change-data-events-from-mysql-to-kafka-using-debezium/)
