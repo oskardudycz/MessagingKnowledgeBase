@@ -6,15 +6,20 @@
 * [Delivering Billions of Messages Exactly Once by Segment](https://segment.com/blog/exactly-once-delivery/)
 * [Gregor Hohpe - Starbucks Does Not Use Two-Phase Commit](http://www.enterpriseintegrationpatterns.com/ramblings/18_starbucks.html) - explanation of events compensation
 * [Marc de Graauw - Nobody Needs Reliable Messaging](https://www.infoq.com/articles/no-reliable-messaging)
+* [Putting your events on a diet by David Boike](https://particular.net/blog/putting-your-events-on-a-diet)
 
 ## Architectures
 * [Lambda Architecture](http://lambda-architecture.net/)
 * [Questioning the Lambda Architecture](https://www.oreilly.com/ideas/questioning-the-lambda-architecture)
 
+## Stream Processing
+* [Martin Klepmann - Event sourcing and stream processing at scale](https://martin.kleppmann.com/2016/01/29/event-sourcing-stream-processing-at-ddd-europe.html)
+* [Jonas Bonér - Designing Events-First Microservices](https://www.youtube.com/watch?v=1hwuWmMNT4c)
+* [Jay Kreps - Why local state is a fundamental primitive in stream processing](https://www.oreilly.com/ideas/why-local-state-is-a-fundamental-primitive-in-stream-processing)
+
 ## Kafka
-* [Event sourcing and stream processing at scale](https://martin.kleppmann.com/2016/01/29/event-sourcing-stream-processing-at-ddd-europe.html)
-* [Putting your events on a diet by David Boike](https://particular.net/blog/putting-your-events-on-a-diet)
-* [Introducing Exactly Once Semantics in Apache Kafka by Matthias J. Sax](https://www.youtube.com/watch?v=Wo9jlaz8h0k)
+* [Jay Kreps - Putting Apache Kafka to Use for Event Streams](https://www.youtube.com/watch?v=el-SqcZLZlI)
+* [Matthias J. Sax - Introducing Exactly Once Semantics in Apache Kafka](https://www.youtube.com/watch?v=Wo9jlaz8h0k)
 * [Kafka Clients (At-Most-Once, At-Least-Once, Exactly-Once, and Avro Client)](https://medium.com/@ajmalbabu/kafka-0-9-0-clients-db1f43257d30)
 * [Enabling Exactly-Once in Kafka Streams](https://www.confluent.io/blog/enabling-exactly-kafka-streams/)
 * [ASP.Net Core Streaming Application Using Kafka – Part 1](https://dotnetcorecentral.com/blog/asp-net-core-streaming-application-using-kafka-part-1/)
