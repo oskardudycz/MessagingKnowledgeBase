@@ -6,7 +6,7 @@
 * [Delivering Billions of Messages Exactly Once by Segment](https://segment.com/blog/exactly-once-delivery/)
 * [Gregor Hohpe - Starbucks Does Not Use Two-Phase Commit](http://www.enterpriseintegrationpatterns.com/ramblings/18_starbucks.html) - explanation of events compensation
 * [Marc de Graauw - Nobody Needs Reliable Messaging](https://www.infoq.com/articles/no-reliable-messaging)
-* [Putting your events on a diet by David Boike](https://particular.net/blog/putting-your-events-on-a-diet)
+* [David Boike - Putting your events on a diet](https://particular.net/blog/putting-your-events-on-a-diet)
 
 ## Architectures
 * [Lambda Architecture](http://lambda-architecture.net/)
