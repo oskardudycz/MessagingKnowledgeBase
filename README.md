@@ -11,14 +11,19 @@
 ## Architectures
 * [Lambda Architecture](http://lambda-architecture.net/)
 * [Questioning the Lambda Architecture](https://www.oreilly.com/ideas/questioning-the-lambda-architecture)
+* [Pat Helland - Life beyond Distributed Transactions: an Apostate’s Opinion](http://adrianmarriott.net/logosroot/papers/LifeBeyondTxns.pdf)
+* [Jimmy Bogard - Life Beyond Distributed Transactions: An Apostate's Implementation](https://www.youtube.com/watch?v=AUrKofVRHV4)
 
-## Stream Processing
+## Stream Processing, Event Driven architecture
 * [Martin Klepmann - Event sourcing and stream processing at scale](https://martin.kleppmann.com/2016/01/29/event-sourcing-stream-processing-at-ddd-europe.html)
 * [Jonas Bonér - Designing Events-First Microservices](https://www.youtube.com/watch?v=1hwuWmMNT4c)
 * [Jay Kreps - Why local state is a fundamental primitive in stream processing](https://www.oreilly.com/ideas/why-local-state-is-a-fundamental-primitive-in-stream-processing)
 * [Simon Green - Microservices, Containers & Event-Driven Architecture: Key Integration Factors](https://www.redhat.com/en/about/videos/microservices-containers-event-driven-architecture)
 * [Jakub Pilimon - Event-Driven Architecture Traps](https://www.youtube.com/watch?v=5_fFmVwqaVY)
 * [Martin Kleppmann, Alastair R. Beresford, and Boerge Svingen - Online Event Processing. Achieving consistency where distributed transactions have failed](https://queue.acm.org/detail.cfm?id=3321612)
+* [Thomas Pierrain - As Time Goes By… (a Bi-temporal Event Sourcing story)](https://m.youtube.com/watch?v=xzekp1RuZbM)
+* [Martin Fowler - What do you mean by “Event-Driven”?](https://martinfowler.com/articles/201701-event-driven.html)
+* [Bernd Ruecker - Complex Event Flows in Distributed Systems](https://www.youtube.com/watch?v=g1z520X-dgU)
 
 ## Kinesis, SQS
 * [Tara Van Unen - Building Loosely Coupled, Scalable, C# Applications with Amazon SQS and Amazon SNS](https://aws.amazon.com/blogs/compute/building-loosely-coupled-scalable-c-applications-with-amazon-sqs-and-amazon-sns/)
