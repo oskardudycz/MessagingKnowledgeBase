@@ -46,3 +46,4 @@
 * [Gunnar Morling - Reliable Microservices Data Exchange With the Outbox Pattern](https://debezium.io/blog/2019/02/19/reliable-microservices-data-exchange-with-the-outbox-pattern/)
 * [Vlad Mihalcea - How to extract change data events from MySQL to Kafka using Debezium](https://vladmihalcea.com/how-to-extract-change-data-events-from-mysql-to-kafka-using-debezium/)
 * [Robin Moffatt - No More Silos: Integrating Databases and Apache Kafka](https://talks.rmoff.net/eGacLb/no-more-silos-integrating-databases-and-apache-kafka)
+* [Emily Chang - Lessons learned from running Kafka at Datadog](https://www.datadoghq.com/blog/kafka-at-datadog/)
