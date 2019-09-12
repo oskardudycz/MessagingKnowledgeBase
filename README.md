@@ -26,6 +26,7 @@
 * [Bernd Ruecker - Complex Event Flows in Distributed Systems](https://www.youtube.com/watch?v=g1z520X-dgU)
 * [James Hood - Building Event-Driven Serverless Apps with AWS Event Fork Pipelines](https://pages.awscloud.com/Building-Event-Driven-Serverless-Apps-with-AWS-Event-Fork-Pipelines_2019_0509-SRV_OD.html?utm_source=newsletter&utm_medium=email&utm_content=offbynone&utm_campaign=Off-by-none%3A%20Issue%20%2339)
 * [Michiel Overeem - Event Sourcing after launch](https://www.youtube.com/watch?v=JzWJI8kW2kc)
+* [Kevin Webber - Full Stack Reactive In Practice](https://www.youtube.com/watch?v=ygVuPuxrRIo) with [samples](https://github.com/RedElastic/reactive-stock-trader)
 
 ## Kinesis, SQS
 * [Tara Van Unen - Building Loosely Coupled, Scalable, C# Applications with Amazon SQS and Amazon SNS](https://aws.amazon.com/blogs/compute/building-loosely-coupled-scalable-c-applications-with-amazon-sqs-and-amazon-sns/)
