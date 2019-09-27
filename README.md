@@ -7,6 +7,7 @@
 * [Gregor Hohpe - Starbucks Does Not Use Two-Phase Commit](http://www.enterpriseintegrationpatterns.com/ramblings/18_starbucks.html) - explanation of events compensation
 * [Marc de Graauw - Nobody Needs Reliable Messaging](https://www.infoq.com/articles/no-reliable-messaging)
 * [David Boike - Putting your events on a diet](https://particular.net/blog/putting-your-events-on-a-diet)
+* [Martin Fowler - The Many Meanings of Event-Driven Architecture](https://www.youtube.com/watch?v=STKCRSUsyP0&t=822s)
 
 ## Architectures
 * [Lambda Architecture](http://lambda-architecture.net/)
