@@ -49,3 +49,4 @@
 * [Vlad Mihalcea - How to extract change data events from MySQL to Kafka using Debezium](https://vladmihalcea.com/how-to-extract-change-data-events-from-mysql-to-kafka-using-debezium/)
 * [Robin Moffatt - No More Silos: Integrating Databases and Apache Kafka](https://talks.rmoff.net/eGacLb/no-more-silos-integrating-databases-and-apache-kafka)
 * [Emily Chang - Lessons learned from running Kafka at Datadog](https://www.datadoghq.com/blog/kafka-at-datadog/)
+* [Anna Povzner, Scott Hendricks - 99th Percentile Latency at Scale with Apache Kafka](https://www.confluent.io/blog/configure-kafka-to-minimize-latency/)
