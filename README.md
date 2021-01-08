@@ -55,6 +55,7 @@
 - [Erez Rabih - RabbitMQ Retries — The Full Story](https://engineering.nanit.com/rabbitmq-retries-the-full-story-ca4cc6c5b493)
 
 ## Kafka vs RabbitMQ
+- [Eran Stiller - RabbitMQ vs. Kafka](https://medium.com/better-programming/rabbitmq-vs-kafka-1ef22a041793)
 - [Eran Stiller - RabbitMQ vs. Kafka: Head-To-Head](https://medium.com/better-programming/rabbitmq-vs-kafka-1779b5b70c41)
 * [RabbitMQ vs Kafka Part 1 - Two Different Takes on Messaging](https://jack-vanlightly.com/blog/2017/12/4/rabbitmq-vs-kafka-part-1-messaging-topologies)
 * [RabbitMQ vs Kafka Part 1 - Two Different Takes on Messaging](https://jack-vanlightly.com/blog/2017/12/4/rabbitmq-vs-kafka-part-1-messaging-topologies)
