@@ -61,3 +61,6 @@
 - [Eran Stiller - RabbitMQ vs. Kafka: Head-To-Head](https://medium.com/better-programming/rabbitmq-vs-kafka-1779b5b70c41)
 * [RabbitMQ vs Kafka Part 1 - Two Different Takes on Messaging](https://jack-vanlightly.com/blog/2017/12/4/rabbitmq-vs-kafka-part-1-messaging-topologies)
 - [Lovisa Johansson - When to use RabbitMQ or Apache Kafka](https://www.cloudamqp.com/blog/2019-12-12-when-to-use-rabbitmq-or-apache-kafka.html)
+
+## NATS vs Kafka
+- [Emil Koutanov - Contrasting NATS with Apache Kafka](https://itnext.io/contrasting-nats-with-apache-kafka-1d3bdb9aa767)
