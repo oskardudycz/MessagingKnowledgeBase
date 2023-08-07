@@ -38,8 +38,10 @@
 - [Yan Cui - Are Lambda-to-Lambda calls really so bad?](https://theburningmonk.com/2020/07/are-lambda-to-lambda-calls-really-so-bad/)
 
 ## AWS
+- [Eric Johnson - AWS re:Invent 2022 - Building next-gen applications with event-driven architectures](https://www.youtube.com/watch?v=SbL3a9YOW7s&list=PL2yQDdvlhXf_lYR5Ntvr9V5iVYv5rcbNc)
 - [Be A Better Dev - Event Driven Architectures vs Workflows (with AWS Services!)](https://www.youtube.com/watch?v=Q_QCu6OP2mQ)
 - [Serverlessland - Introduction to Event Driven Architecture](https://serverlessland.com/event-driven-architecture)
+- [Durgadas Kamath - Event-Driven Messaging Made Easy with Amazon SQS, SNS, and EventBridge](https://towardsaws.com/event-driven-messaging-made-easy-with-amazon-sqs-sns-and-eventbridge-122ab47ef91b)
 
 ## Kinesis, SQS
 * [Tara Van Unen - Building Loosely Coupled, Scalable, C# Applications with Amazon SQS and Amazon SNS](https://aws.amazon.com/blogs/compute/building-loosely-coupled-scalable-c-applications-with-amazon-sqs-and-amazon-sns/)
@@ -47,6 +49,10 @@
 
 ## SNS
 - [AWS - Building event-driven architectures with Amazon SNS FIFO](https://aws.amazon.com/blogs/compute/building-event-driven-architectures-with-amazon-sns-fifo/)
+
+## Dead Letter Queues
+- [AWS - Amazon SNS dead-letter queues (DLQs)](https://docs.aws.amazon.com/sns/latest/dg/sns-dead-letter-queues.html)
+- [PicnicError - SQS vs SNS for Lambda Dead Letter Queues](https://picnicerror.net/development/sqs-vs-sns-for-lambda-dead-letter-queues-2018-03-02/)
 
 ## Kafka
 * [Jay Kreps - Putting Apache Kafka to Use for Event Streams](https://www.youtube.com/watch?v=el-SqcZLZlI)
