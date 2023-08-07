@@ -60,16 +60,27 @@
 * [Sandro Volpicella - AWS SNS vs. SQS - What Are the Main Differences?](https://blog.serverlessq.com/aws-sns-vs-sqs-what-are-the-main-differences)
 * [Tara Van Unen - Building Loosely Coupled, Scalable, C# Applications with Amazon SQS and Amazon SNS](https://aws.amazon.com/blogs/compute/building-loosely-coupled-scalable-c-applications-with-amazon-sqs-and-amazon-sns/)
 - [Jeremy Daly - How To: Use SNS and SQS to Distribute and Throttle Events](https://www.jeremydaly.com/how-to-use-sns-and-sqs-to-distribute-and-throttle-events/)
+- [Devops Junction - AWS SQS Dead Letter Queue Reprocessing scrips](https://www.middlewareinventory.com/blog/sqs-dead-letter-queue-reprocessing/)
+- [Lorenz Vanthillo - How to Fan-Out to Different SQS Queues Using SNS Message Filtering](https://betterprogramming.pub/how-to-fan-out-to-different-sqs-queues-using-sns-message-filtering-84cd23ed9d07)
+- [AWS - Filter Messages Published to Topics with Amazon SNS and Amazon SQS](https://aws.amazon.com/tutorials/filter-messages-published-to-topics/)
+- [AWS - SQS/SNS Error Handling](https://catalog.us-east-1.prod.workshops.aws/workshops/63320e83-6abc-493d-83d8-f822584fb3cb/en-US/sns/error-handling)
 
 ### Dead Letter Queues
 - [AWS - Amazon SNS dead-letter queues (DLQs)](https://docs.aws.amazon.com/sns/latest/dg/sns-dead-letter-queues.html)
 - [PicnicError - SQS vs SNS for Lambda Dead Letter Queues](https://picnicerror.net/development/sqs-vs-sns-for-lambda-dead-letter-queues-2018-03-02/)
+- [Be A Better Dev - Easily Redrive SQS DLQ Messages | Step by Step Tutorial](https://www.youtube.com/watch?v=65NFikq8dU4)
 
 ### AWS Fargate
 - [Fargate vs Lambda: The Battle of the Future](https://www.clickittech.com/devops/fargate-vs-lambda/)
 
 ### Event Bridge
 - [AWS - Deep Dive on Amazon EventBridge](https://www.youtube.com/watch?v=28B4L1fnnGM)
+
+### Java
+- [Reflectoring - Getting Started With AWS SQS and Spring Cloud](https://reflectoring.io/spring-cloud-aws-sqs/)
+- [Gunter Rotsaert - How to Use Amazon SQS in a Spring Boot App](https://mydeveloperplanet.com/2021/11/23/how-to-use-amazon-sqs-in-a-spring-boot-app/)
+- [Baeldung - Managing Amazon SQS Queues in Java](https://www.baeldung.com/aws-queues-java)
+- [AWS - Getting started with Spring Boot on AWS: Part 2](https://aws.amazon.com/blogs/opensource/getting-started-with-spring-boot-on-aws-part-2/)
 
 ## Kafka
 * [Jay Kreps - Putting Apache Kafka to Use for Event Streams](https://www.youtube.com/watch?v=el-SqcZLZlI)
