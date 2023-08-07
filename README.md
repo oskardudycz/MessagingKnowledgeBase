@@ -64,6 +64,7 @@
 - [Lorenz Vanthillo - How to Fan-Out to Different SQS Queues Using SNS Message Filtering](https://betterprogramming.pub/how-to-fan-out-to-different-sqs-queues-using-sns-message-filtering-84cd23ed9d07)
 - [AWS - Filter Messages Published to Topics with Amazon SNS and Amazon SQS](https://aws.amazon.com/tutorials/filter-messages-published-to-topics/)
 - [AWS - SQS/SNS Error Handling](https://catalog.us-east-1.prod.workshops.aws/workshops/63320e83-6abc-493d-83d8-f822584fb3cb/en-US/sns/error-handling)
+- [Justin Pirtle - AWS re:Invent 2020: Scalable serverless event-driven architectures with SNS, SQS & Lambda](https://www.youtube.com/watch?v=8zysQqxgj0I)
 
 ### Dead Letter Queues
 - [AWS - Amazon SNS dead-letter queues (DLQs)](https://docs.aws.amazon.com/sns/latest/dg/sns-dead-letter-queues.html)
