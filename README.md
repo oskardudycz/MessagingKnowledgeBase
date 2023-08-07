@@ -36,6 +36,7 @@
 - [Julian Wood, Chris Greenwood - AWS re:Invent 2022 - A closer look at AWS Lambda](https://www.youtube.com/watch?v=0_jfH6qijVY)
 - [Yan Cui - Choreography vs Orchestration in the land of serverless](https://theburningmonk.com/2020/08/choreography-vs-orchestration-in-the-land-of-serverless/)
 - [Yan Cui - Are Lambda-to-Lambda calls really so bad?](https://theburningmonk.com/2020/07/are-lambda-to-lambda-calls-really-so-bad/)
+- [Yan Cui - A practical guide to testing AWS Step Functions](https://theburningmonk.com/2022/12/a-practical-guide-to-testing-aws-step-functions/)
 
 ## AWS
 - [Eric Johnson - AWS re:Invent 2022 - Building next-gen applications with event-driven architectures](https://www.youtube.com/watch?v=SbL3a9YOW7s&list=PL2yQDdvlhXf_lYR5Ntvr9V5iVYv5rcbNc)
