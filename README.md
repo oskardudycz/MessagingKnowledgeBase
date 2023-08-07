@@ -1,6 +1,6 @@
-![Twitter Follow](https://img.shields.io/twitter/follow/oskar_at_net?style=social) [![Github Sponsors](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=https://github.com/sponsors/oskardudycz/)](https://github.com/sponsors/oskardudycz/) [![blog](https://img.shields.io/badge/blog-event--driven.io-brightgreen)](https://event-driven.io/)
+![Github Actions](https://github.com/oskardudycz/EventSourcing.NetCore/actions/workflows/build.dotnet.yml/badge.svg?branch=main) [![Github Sponsors](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=https://github.com/sponsors/oskardudycz/)](https://github.com/sponsors/oskardudycz/) [![blog](https://img.shields.io/badge/blog-event--driven.io-brightgreen)](https://event-driven.io/?utm_source=event_sourcing_net) [![blog](https://img.shields.io/badge/%F0%9F%9A%80-Architecture%20Weekly-important)](https://www.architecture-weekly.com/?utm_source=event_sourcing_net)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oskardudycz/) 
 
-# Messaging Knowledge Base
+# Messaging and EDA
 
 ## General
 
@@ -16,6 +16,7 @@
 * [Questioning the Lambda Architecture](https://www.oreilly.com/ideas/questioning-the-lambda-architecture)
 * [Pat Helland - Life beyond Distributed Transactions: an Apostate’s Opinion](http://adrianmarriott.net/logosroot/papers/LifeBeyondTxns.pdf)
 * [Jimmy Bogard - Life Beyond Distributed Transactions: An Apostate's Implementation](https://www.youtube.com/watch?v=AUrKofVRHV4)
+* [Derek Comartin - Event-Driven Architecture: I do not think it means what you think it means](https://www.youtube.com/watch?v=iAA7PTqs4xY)
 
 ## Stream Processing, Event Driven architecture
 * [Martin Klepmann - Event sourcing and stream processing at scale](https://martin.kleppmann.com/2016/01/29/event-sourcing-stream-processing-at-ddd-europe.html)
@@ -32,12 +33,20 @@
 * [Kevin Webber - Full Stack Reactive In Practice](https://www.youtube.com/watch?v=ygVuPuxrRIo) with [samples](https://github.com/RedElastic/reactive-stock-trader)
 
 ## Serverless
+- [Julian Wood, Chris Greenwood - AWS re:Invent 2022 - A closer look at AWS Lambda](https://www.youtube.com/watch?v=0_jfH6qijVY)
 - [Yan Cui - Choreography vs Orchestration in the land of serverless](https://theburningmonk.com/2020/08/choreography-vs-orchestration-in-the-land-of-serverless/)
 - [Yan Cui - Are Lambda-to-Lambda calls really so bad?](https://theburningmonk.com/2020/07/are-lambda-to-lambda-calls-really-so-bad/)
+
+## AWS
+- [Be A Better Dev - Event Driven Architectures vs Workflows (with AWS Services!)](https://www.youtube.com/watch?v=Q_QCu6OP2mQ)
+- [Serverlessland - Introduction to Event Driven Architecture](https://serverlessland.com/event-driven-architecture)
 
 ## Kinesis, SQS
 * [Tara Van Unen - Building Loosely Coupled, Scalable, C# Applications with Amazon SQS and Amazon SNS](https://aws.amazon.com/blogs/compute/building-loosely-coupled-scalable-c-applications-with-amazon-sqs-and-amazon-sns/)
 * [Miia Niemelä - Lessons learned from combining SQS and Lambda in a data project](https://data.solita.fi/lessons-learned-from-combining-sqs-and-lambda-in-a-data-project/)
+
+## SNS
+- [AWS - Building event-driven architectures with Amazon SNS FIFO](https://aws.amazon.com/blogs/compute/building-event-driven-architectures-with-amazon-sns-fifo/)
 
 ## Kafka
 * [Jay Kreps - Putting Apache Kafka to Use for Event Streams](https://www.youtube.com/watch?v=el-SqcZLZlI)
