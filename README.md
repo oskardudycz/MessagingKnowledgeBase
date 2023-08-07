@@ -40,27 +40,35 @@
 ## AWS
 - [Eric Johnson - AWS re:Invent 2022 - Building next-gen applications with event-driven architectures](https://www.youtube.com/watch?v=SbL3a9YOW7s&list=PL2yQDdvlhXf_lYR5Ntvr9V5iVYv5rcbNc)
 - [Be A Better Dev - Event Driven Architectures vs Workflows (with AWS Services!)](https://www.youtube.com/watch?v=Q_QCu6OP2mQ)
+- [Be A Better Dev - AWS SQS vs SNS vs EventBridge - When to Use What?](https://www.youtube.com/watch?v=RoKAEzdcr7k)
 - [Serverlessland - Introduction to Event Driven Architecture](https://serverlessland.com/event-driven-architecture)
 - [Durgadas Kamath - Event-Driven Messaging Made Easy with Amazon SQS, SNS, and EventBridge](https://towardsaws.com/event-driven-messaging-made-easy-with-amazon-sqs-sns-and-eventbridge-122ab47ef91b)
+- [James Beswick - AWS re:Invent 2022 - Building Serverlesspresso: Creating event-driven architectures](https://www.youtube.com/watch?v=qs0U0LdNkV0)
 
-## SQS
+### SQS
 * [Miia Niemelä - Lessons learned from combining SQS and Lambda in a data project](https://data.solita.fi/lessons-learned-from-combining-sqs-and-lambda-in-a-data-project/)
-* [Kevin Sookocheff - Dissecting SQS FIFO Queues — Does Ordered and Exactly Once Messaging Really Exist?](https://sookocheff.com/post/messaging/dissecting-sqs-fifo-queues/)
 
-## SNS
+#### SQS FIFO
+* [Kevin Sookocheff - Dissecting SQS FIFO Queues — Does Ordered and Exactly Once Messaging Really Exist?](https://sookocheff.com/post/messaging/dissecting-sqs-fifo-queues/)
+* [Tom Gregory - 3 surprising facts about AWS SQS FIFO queues](https://tomgregory.com/3-surprising-facts-about-aws-sqs-fifo-queues/)
+
+### SNS
 - [AWS - Building event-driven architectures with Amazon SNS FIFO](https://aws.amazon.com/blogs/compute/building-event-driven-architectures-with-amazon-sns-fifo/)
 
-## SQS + SNS
+### SQS + SNS
 * [Sandro Volpicella - AWS SNS vs. SQS - What Are the Main Differences?](https://blog.serverlessq.com/aws-sns-vs-sqs-what-are-the-main-differences)
 * [Tara Van Unen - Building Loosely Coupled, Scalable, C# Applications with Amazon SQS and Amazon SNS](https://aws.amazon.com/blogs/compute/building-loosely-coupled-scalable-c-applications-with-amazon-sqs-and-amazon-sns/)
 - [Jeremy Daly - How To: Use SNS and SQS to Distribute and Throttle Events](https://www.jeremydaly.com/how-to-use-sns-and-sqs-to-distribute-and-throttle-events/)
 
-## AWS Fargate
-- [Fargate vs Lambda: The Battle of the Future](https://www.clickittech.com/devops/fargate-vs-lambda/)
-
-## Dead Letter Queues
+### Dead Letter Queues
 - [AWS - Amazon SNS dead-letter queues (DLQs)](https://docs.aws.amazon.com/sns/latest/dg/sns-dead-letter-queues.html)
 - [PicnicError - SQS vs SNS for Lambda Dead Letter Queues](https://picnicerror.net/development/sqs-vs-sns-for-lambda-dead-letter-queues-2018-03-02/)
+
+### AWS Fargate
+- [Fargate vs Lambda: The Battle of the Future](https://www.clickittech.com/devops/fargate-vs-lambda/)
+
+### Event Bridge
+- [AWS - Deep Dive on Amazon EventBridge](https://www.youtube.com/watch?v=28B4L1fnnGM)
 
 ## Kafka
 * [Jay Kreps - Putting Apache Kafka to Use for Event Streams](https://www.youtube.com/watch?v=el-SqcZLZlI)
