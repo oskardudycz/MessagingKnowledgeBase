@@ -43,12 +43,20 @@
 - [Serverlessland - Introduction to Event Driven Architecture](https://serverlessland.com/event-driven-architecture)
 - [Durgadas Kamath - Event-Driven Messaging Made Easy with Amazon SQS, SNS, and EventBridge](https://towardsaws.com/event-driven-messaging-made-easy-with-amazon-sqs-sns-and-eventbridge-122ab47ef91b)
 
-## Kinesis, SQS
-* [Tara Van Unen - Building Loosely Coupled, Scalable, C# Applications with Amazon SQS and Amazon SNS](https://aws.amazon.com/blogs/compute/building-loosely-coupled-scalable-c-applications-with-amazon-sqs-and-amazon-sns/)
+## SQS
 * [Miia Niemelä - Lessons learned from combining SQS and Lambda in a data project](https://data.solita.fi/lessons-learned-from-combining-sqs-and-lambda-in-a-data-project/)
+* [Kevin Sookocheff - Dissecting SQS FIFO Queues — Does Ordered and Exactly Once Messaging Really Exist?](https://sookocheff.com/post/messaging/dissecting-sqs-fifo-queues/)
 
 ## SNS
 - [AWS - Building event-driven architectures with Amazon SNS FIFO](https://aws.amazon.com/blogs/compute/building-event-driven-architectures-with-amazon-sns-fifo/)
+
+## SQS + SNS
+* [Sandro Volpicella - AWS SNS vs. SQS - What Are the Main Differences?](https://blog.serverlessq.com/aws-sns-vs-sqs-what-are-the-main-differences)
+* [Tara Van Unen - Building Loosely Coupled, Scalable, C# Applications with Amazon SQS and Amazon SNS](https://aws.amazon.com/blogs/compute/building-loosely-coupled-scalable-c-applications-with-amazon-sqs-and-amazon-sns/)
+- [Jeremy Daly - How To: Use SNS and SQS to Distribute and Throttle Events](https://www.jeremydaly.com/how-to-use-sns-and-sqs-to-distribute-and-throttle-events/)
+
+## AWS Fargate
+- [Fargate vs Lambda: The Battle of the Future](https://www.clickittech.com/devops/fargate-vs-lambda/)
 
 ## Dead Letter Queues
 - [AWS - Amazon SNS dead-letter queues (DLQs)](https://docs.aws.amazon.com/sns/latest/dg/sns-dead-letter-queues.html)
